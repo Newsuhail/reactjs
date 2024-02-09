@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.row{
+  width: 1320px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.CardItems{
+  flex-basis: 23%;
+  margin: 1%;
+  height: 200px;
+  background-color: blanchedalmond;
+}
